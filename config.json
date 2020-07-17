@@ -1,0 +1,10 @@
+{
+  "clusters": 1,
+  "conn": 2,
+  "path": "http://localhost:8080",
+  "delay":5000,
+  "settings": {
+    "waitForTrailers": true,
+    "endStream": false
+  }
+}
